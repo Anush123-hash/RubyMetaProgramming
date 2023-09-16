@@ -51,3 +51,8 @@ Here, we can discuss about one of the features in ruby which is responsibe for i
 - Increase the complexity and affects readability (Mitigated by proper documentation and test cases)
 - Depends on its usage, it may leads to performance degradation since operations are performed in runtime and overload the system
 - Because of having a flexibility to override the behaviours, it may lead of potential security issue if it is not used properly
+
+## Reference
+
+- [MetaProgramming in Ruby](https://www.scaler.com/topics/metaprogramming-in-ruby/)
+- [class eval and instance eval](https://web.stanford.edu/~ouster/cgi-bin/cs142-winter15/classEval.php)
